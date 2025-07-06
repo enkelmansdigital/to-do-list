@@ -51,7 +51,7 @@
 ## 📚 Documentation
 - [ ] Update README with instructions
 - [ ] Add code comments and inline docs
-- [ ] Create changelog or release notes (optional)
+- [ ] Create changelog or release notes 
 
 ## 🛠 Maintenance (Post-launch)
 - [ ] Track bugs and feedback
